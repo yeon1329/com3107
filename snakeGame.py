@@ -71,7 +71,7 @@ while running:
     pygame.display.update()
     clock.tick(60)
 message(font_gameOver, 'Game Over', RED, int(SCR_WIDTH/2), int(SCR_HEIGHT/2))
-message(font_madeBy, 'made by kig2929kig', BLACK, int(SCR_WIDTH/2), int(SCR_HEIGHT/2)+30)
+message(font_madeBy, 'made by yeon1329', BLACK, int(SCR_WIDTH/2), int(SCR_HEIGHT/2)+30)
 pygame.display.update()
 time.sleep(2)
 pygame.quit()
